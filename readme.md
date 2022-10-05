@@ -3,7 +3,7 @@
 ![Project-1](https://img.shields.io/badge/iNeuron-orange)
 ![Project-1](https://img.shields.io/badge/-Js--Full--Stack-success)
 
-## Live Link -
+## Live Link - https://dainty-pudding-4f9077.netlify.app
 
 ![Project-1](./Screenshot.png)
 
