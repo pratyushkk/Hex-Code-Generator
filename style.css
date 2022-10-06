@@ -33,6 +33,8 @@ button {
   display: block;
   border: none;
   border-radius: 15px;
+  border-top-left-radius: 0;
+  border-top-right-radius: 0;
   color: #fff;
   background-color: black;
 }
